@@ -1,0 +1,31 @@
+<!DOCTYPE HTML>
+<html>
+	<head>
+		<title>Digital signature</title>
+		<meta charset="utf-8">
+	</head>
+	<body>
+		<h1>Digital signature</h1>
+		<h2>What are digital signatures?</h2>
+			<p>Digital signatures are like electronic “fingerprints.” In the form of a coded message, the digital signature securely associates a signer with a document in a recorded transaction. Digital signatures use a standard, accepted format, called Public Key Infrastructure (PKI), to provide the highest levels of security and universal acceptance. They are a specific signature technology implementation of electronic signature (eSignature).</p>
+		<h2>What’s the difference between a digital signature and an electronic signature?</h2>
+			<p>The broad category of electronic signatures (eSignatures) encompasses many types of electronic signatures. The category includes digital signatures, which are a specific technology implementation of electronic signatures. Both digital signatures and other eSignature solutions allow you to sign documents and authenticate the signer. However, there are differences in purpose, technical implementation, geographical use, and legal and cultural acceptance of digital signatures versus other types of eSignatures.</p>
+			<p>In particular, the use of digital signature technology for eSignatures varies significantly between countries that follow open, technology-neutral eSignature laws, including the United States, United Kingdom, Canada, and Australia, and those that follow tiered eSignature models that prefer locally defined standards that are based on digital signature technology, including many countries in the European Union, South America, and Asia. In addition, some industries also support specific standards that are based on digital signature technology.</p>
+		<h2>How do digital signatures work?</h2>
+			<p>Digital signatures, like handwritten signatures, are unique to each signer. Digital signature solution providers, such as DocuSign, follow a specific protocol, called PKI. PKI requires the provider to use a mathematical algorithm to generate two long numbers, called keys. One key is public, and one key is private.</p>
+			<p>When a signer electronically signs a document, the signature is created using the signer’s private key, which is always securely kept by the signer. The mathematical algorithm acts like a cipher, creating data matching the signed document, called a hash, and encrypting that data. The resulting encrypted data is the digital signature. The signature is also marked with the time that the document was signed. If the document changes after signing, the digital signature is invalidated.</p>
+			<p>As an example, Jane signs an agreement to sell a timeshare using her private key. The buyer receives the document. The buyer who receives the document also receives a copy of Jane’s public key. If the public key can’t decrypt the signature (via the cipher from which the keys were created), it means the signature isn’t Jane’s, or has been changed since it was signed. The signature is then considered invalid.</p>
+			<p>To protect the integrity of the signature, PKI requires that the keys be created, conducted, and saved in a secure manner, and often requires the services of a reliable Certificate Authority (CA). Digital signature providers, like DocuSign, meet PKI requirements for safe digital signing.</p>
+				<img src="https://www.docusign.com/sites/default/files/ds_subpage_diagram2.svg" alt="The signer encrypts a document signing it. In the network the hash algorithm and the decryption public key extract a hash from the signed document. If the hash is equal, the signature is valid."width="700">
+		<h2>How do I create a digital signature?</h2>
+			<p>eSignature providers, such as DocuSign, that offer solutions based on digital signature technology, make it easy to digitally sign documents. They provide an interface for sending and signing documents online and work with the appropriate Certificate Authorities to provide trusted digital certificates.</p>
+			<p>Depending upon the Certificate Authority you are using, you may be required to supply specific information. There also may be restrictions and limitations on whom you send documents to for signing and the order in which you send them. DocuSign’s interface walks you through the process and ensures that you meet all of these requirements. When you receive a document for signing via email, you must authenticate as per the Certificate Authority’s requirements and then “sign” the document by filling out a form online.</p>
+			<p>When you receive an email with a link to the document you need to digitally sign, here’s what to do:</p>
+			<ol>	
+				<li><strong>Click the link.</strong> Your document should open in an electronic signature tool such as DocuSign.</li>
+				<li><strong>Agree to electronic signing.</strong> You may be asked to agree to sign. After confirming agreement and if the document was sent via DocuSign, you should see tags with instructions to Start or Sign.</li>
+				<li><strong>Click each tag</strong> and follow the instructions to add your digital signature.</li>
+				<li><strong>Verify your identity</strong> and follow the instructions to add your digital signature.
+</li>
+	</body>
+</html>
