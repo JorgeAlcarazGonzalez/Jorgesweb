@@ -1,0 +1,19 @@
+<!DOCTYPE HTML>
+<html>
+	<head>
+		<title>Object oriented programming vs structured programming</title>
+		<meta charset="utf-8">
+	</head>
+	<body>
+		<h1>Object oriented programming vs structured programming</h1>
+		<h2>Structured Programming vs Object Oriented Programming</h2>
+			<p>Object Oriented Programming (OOP) and Structured Programming are two programming paradigms. A programming paradigm is a fundamental style of computer programming. Programming paradigms differ in how each element of the programs is represented and how steps are defined for solving problems. As the name suggests, OOP focuses on representing problems using real-world objects and their behavior, while Structured Programming deals with organizing the program in a logical structure.</p>
+		<h3>What is Structured Programming?</h3>
+			<p>It is assumed that the birth year of Structured Programming is 1970. Structured programming is considered a subset of imperative programming. A structured program is made up of simple program flow structures, which are hierarchically organized. They are sequence, selection and repetition. Sequence is an order of statements. Selection means selecting a statement from a set of statements based on the current state of the program (for e.g. using if statements) and repetition means executing a statement until a certain state is reached (for e.g. using for or while statements). ALGOL, Pascal, Ada and PL/I are some of the structured programming languages used today.</p>
+		<h3>What is Object Oriented Programming?</h3>
+			<p>In OOP, the focus is on thinking about the problem to be solved in terms of real-world elements and representing the problem in terms of objects and their behavior. Classes depict the abstract representations of real world objects. Classes are like blueprints or templates, which gather similar items or things that can be grouped together. Classes have properties called attributes. Attributes are implemented as global and instance variables. Methods in the classes represent or define the behavior of these classes. Methods and attributes of classes are called the members of the class. An instance of a class is called an object. Therefore, an object is a data structure that closely resembles some real-world object.</p>
+			<p>There are several important OOP concepts such as Data abstraction, Encapsulation, Polymorphism, Messaging, Modularity and Inheritance. Typically, encapsulation is achieved by making the attributes private, while creating public methods that can be used to access those attributes. Inheritance allows the user to extend classes (called sub classes) from other classes (called super classes). Polymorphism allows the programmer to substitute an object of a class in place of an object of its super class. Typically, the nouns found in the problem definition directly become classes in the program. And similarly, verbs become methods. Some of the most popular OOP languages are Java and C#.</p>
+		<h3>What is the difference between Structured Programming and Object Oriented Programming?</h3>
+			<p>The key difference between Structured Programming and OOP is that <strong>the focus of Structured Programming is to structure the program in to a hierarchy of subprograms while, the focus of OOP is to break down the programming task in to objects, which encapsulate data and methods</strong>. OOP is considered more flexible than structured programming, because OOP separates a program in to a network of subsystems rather than structuring the program in to a hierarchy. Even though structuring provides certain clarity, a small change to a very large structured program may cause a ripple effect of having to change multiple subprograms.</p>
+	</body>
+</html>
