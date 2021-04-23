@@ -1,0 +1,39 @@
+<!DOCTYPE HTML>
+<html>
+	<head>
+		<title>Internet security</title>
+		<meta charset="utf-8">
+	</head>
+	<body>
+		<h1>Internet security</h1>
+		<h2>Difference between pasive and active security threats</h2>
+			<p>Passive attacks have to do with eavesdropping on, or monitoring, transmissions. Electronic mail, file transfers and client/server exchanges are examples of transmissions that can be monitored. Active attacks include the modification of transmitted data and attempts to gain unauthorized access to computer system. </p>
+		<h2>Malware: worm, trojan, virus and spyware</h2>
+		
+			<p></p>
+		<h3>Worm</h3>
+			<p>Worms are similar to the Virus, but a worm doesn’t need a <strong>host program</strong> to execute itself, worms are the standalone program. It uses a computer network to spread itself, and it relies on <strong>network loophole and security failure</strong> to travel from one host to another automatically and usually don’t requires user intervention. Since worms don’t require any initiation they can spread <strong>speedily across the network</strong>, infecting every PC in their path, Worms are most well know type of malware which affects more computers than a virus can.</p>
+			<img src="https://www.itechfever.com/wp-content/uploads/2016/04/computer-worm-768x509.jpg?ezimgfmt=ng:webp/ngcb20" alt="worm caught with chopsticks over a laptop."width="700">
+			<p>Here are few well know worms like ILOVEYOU which transmitted through emails and cost businesses 5.5 billion US dollar in damage. The Code Red worm damaged 359,000 websites around the globe, SQL Slammer slowed down the entire web for an extended period, and the Blaster worm would force your PC to reboot continuously.</p>
+			<p>Today’s security standards make it difficult for a worm to infect user’s PC via network, but none of the security measures can guarantee that they would be able to stop any future worm. However, make sure your Firewall is on and use good security software to avoid probable worm attacks.</p>
+		<h3>Trojan Horse</h3>
+			<p>Trojan is another kind of malware which looks harmless, but it contains malicious code which creates a backdoor that allows your PC to be controlled remotely. The term Trojan horse came into existence from the Troy Story where the Greeks used a wooden horse to infiltrate Troy.</p>
+			<img src="https://www.itechfever.com/wp-content/uploads/2016/04/trojan-horse.jpg?ezimgfmt=ng:webp/ngcb20" alt="Monument of the wooden horse used to conquer Troya."width="700"
+			<p>Unlike virus trojan <strong>doesn’t replicate itself</strong>, a trojan gets installed by users unknowingly. Once Trojan has infected your PC it can be used for different malicious purpose, like <strong>sending out spams</strong>, attacking a network or computer, DDoS attack on any website, spreading viruses, deleting files, stealing data, activating and spreading other malware.</p>
+			<p>In simple words, trojan creates <strong>backdoor</strong> which gives access to malicious users, once they are able to control your PC they can do whatever they want.</p>
+			<p>So how these Trojans can get access to your system? If you ever tried to download a <strong>crack, keygen</strong> or any program to get the full version of any software then you might get affected by such trojan, think why would anyone create a crack for software? What they are getting in return? First, they may get advertising revenue from the crack hosting sites, but such scammer has <strong>bigger goals</strong> they create trojan and attach them to cracks and keygen, once you install a crack you also install those trojans which put your computer at high risk.</p>
+			<p>So avoid using cracks, keygen or patch for any software.</p>	
+		<h3>Virus<h3>
+			<p>The most common word used for any bad software, however, we use the term <strong>“malware”</strong> now. A virus is a program which can <strong>self-replicate itself</strong> after infecting a computer, it attach itself to other programs and get installed while installing the genuine software. After the execution of <strong>viral code</strong> it may destroy host files and starts infecting files into a PC, from there it creates a replica of itself and travels from PC to PC via external drive, the Internet, and malicious websites.</p>
+			<img src="https://www.itechfever.com/wp-content/uploads/2016/04/computer-virus-1.png?ezimgfmt=ng:webp/ngcb20" alt="Blue virus."width="700">
+			<p>Like a biological Virus goes from one human to another and it spreads through the environment, touch, cough, etc. In the same way, a computer virus spread itself from files to files and then from one device to another. Computer virus attaches themselves to executable files and can attack into several parts of windows like the <strong>registry, services, or a specific software</strong>, some of them can attack <a href="https://en.wikipedia.org/wiki/Master_boot_record">MBR</a> (master boot record), autorun scripts, BIOS and MS Office macros.</p>
+			<p>Overall, a virus is designed to break into your computer, destroy files and the right software, corrupt your files, make your computer completely inoperable which may lead to the complete format of your PC.</p>
+			<p>You can always make your PC safe using a good antivirus program with latest update and virus definition, always avoid suspicious files from email and rouge websites.</p>
+		<h3>Spyware</h3>
+			<p>Spyware is another type of malware which <strong>collects data</strong> from your PC without your knowledge and permission, spyware runs in the background and collects your personal information like your browsing pattern, sites you visit, email, cookies, saved data into browsers, website passwords and even credit card details.</p>
+			<img src="https://www.itechfever.com/wp-content/uploads/2016/04/spyware.jpg?ezimgfmt=ng:webp/ngcb20" alt="Computer looking to its surroundings. It is not completely open, so it can "hide" very fast."width="700">
+			<p>Spyware is similar to the Trojan horse in that users unknowingly install the product when they install some other software or freeware. Spyware exists as an independent program then can <strong>track your keystrokes</strong>, snoop on other files, change your default homepage, monitor your activity, stealing your personal information and send back them to the creators. Your data can be used in several malicious ways which include selling your data, targeted advertising, scams, spam or identity theft.</p>
+https://www.itechfever.com/what-difference-malware-virus-trojan-worm/#:~:text=The%20word%20Malware%20is%20used%20for%20malicious%20software,designed%20to%20harm%20your%20computer%20and%20steal%20information.
+	
+	</body>
+</html>
